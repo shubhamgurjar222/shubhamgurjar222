@@ -20,7 +20,7 @@
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 
