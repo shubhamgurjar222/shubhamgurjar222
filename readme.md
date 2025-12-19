@@ -98,7 +98,7 @@ Classic snake game using C++.
 - GitHub: https://github.com/Shubhamgurjar222
 - Linkedin: https://www.linkedin.com/in/shubhamgurjardev
 - Twitter: https://x.com/shubham35871915
-- Stackoverflow: https://x.com/shubham35871915
+- Stackoverflow: https://stackoverflow.com/users/28055724/shubham-gurjar
 - Mail: shubhamgurjar222@gmail.com
 
 ---
