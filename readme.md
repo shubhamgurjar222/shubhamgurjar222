@@ -9,7 +9,7 @@
 
 - 👨‍💻 Full Stack Developer with practical backend experience
 - 🌱 Currently learning **Node.js** and backend architecture
-- 🐧 Strong hands-on experience with **Linux (AlmaLinux, Linux Mint)** and **VPS servers**
+- 🐧 Strong hands-on experience with **Linux (AlmaLinux, Ubuntu)** and **VPS servers**
 - 🔐 Worked on **KYC verification systems** (Aadhaar & Driving License APIs)
 - 🛠 Experienced in **debugging real production & server issues**
 - 📚 Believe in learning by solving real problems, not just tutorials
